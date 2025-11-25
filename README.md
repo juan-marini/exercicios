@@ -1,6 +1,4 @@
-# Desafio de Programação - Node + TypeScript
-
-Este projeto contém três exercícios desenvolvidos em TypeScript para rodar no Node.js 12.
+Este projeto contém três exercícios desenvolvidos em TypeScript para rodar no Node.js 12
 
 ---
 
@@ -23,4 +21,4 @@ cd exercicio2
 npx ts-node movimentarEstoque.ts
 
 cd exercicio3
-npx ts-node juros.ts
+npx ts-node calcularJuros.ts
