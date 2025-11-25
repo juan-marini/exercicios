@@ -22,3 +22,18 @@ npx ts-node movimentarEstoque.ts
 
 cd exercicio3
 npx ts-node calcularJuros.ts
+
+cd questao1
+npx ts-node questao1.ts
+
+cd questao2
+npx ts-node questao2.ts
+
+cd questao3
+npx ts-node questao3.ts
+
+cd questao4
+npx ts-node questao4.ts
+
+cd questao5
+npx ts-node questao5.ts
